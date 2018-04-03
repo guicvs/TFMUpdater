@@ -1,0 +1,17 @@
+{
+
+"gamedomain_c1": ")\n      getproperty         QName(PackageNamespace(\"\"), \"loaderInfo\")\n      getproperty         QName(PackageNamespace(\"\"), \"loaderURL\")\n      initproperty        QName(PackageNamespace(\"\"), \"";
+"gamelength_c1": "getlocal0\n      getlex              QName(PackageNamespace(\"\"), \"stage\")\n      getproperty         QName(PackageNamespace(\"\"), \"loaderInfo\")\n      getproperty         QName(PackageNamespace(\"\"), \"bytes\")\n      getproperty         QName(PackageNamespace(\"\"), \"length\")\n      initproperty        QName(PackageNamespace(\"\"), \"";
+"navigateur_c1": ", StaticProtectedNs(\"flash.display:DisplayObject\"), StaticProtectedNs(\"flash.events:EventDispatcher\")])\n      add\n      callpropvoid        QName(PackageNamespace(\"\"), \"";
+"ClipJoueur_c1": "getlocal2\n      getproperty         QName(PackageNamespace(\"\"), \"x\")\n      negate\n      getlocal0\n      getproperty         QName(PackageNamespace(\"\"), \"";
+"m_linear_c1": "divide\n      getlocal            7\n      multiply\n      convert_d\n      setlocal            12\n\n      getlocal            6\n      getproperty         QName(PackageNamespace(\"\"), \"";
+"classe_movie_queijo_c1": "), 0\n      initproperty        QName(PackageNamespace(\"\"), \"tempsPartieZero\")\n\n      getlex              QName(PackageNamespace(\"\"), \"";
+"instance_queijo_c1": "\"), 0\n      initproperty        QName(PackageNamespace(\"\"), \"tempsPartieZero\")\n\n      getlex              QName(PackageNamespace(\"\"), \"classe_movie_queijo\")\n      getproperty         QName(PackageNamespace(\"\"), \"";
+"nom_joueur_c1": "\n\n      getlocal            5\n      getlocal            5\n      getproperty         QName(PackageNamespace(\"\"), \"";
+"setxx_c1": `"), 1\n      getlocal            5\n      getproperty         QName(PackageNamespace(""), "position")\n      getproperty         QName(PackageNamespace(""), "`;
+"setyy_c1": `multiply\n      callproperty        QName(PackageNamespace(""), "int"), 1\n      findpropstrict      QName(PackageNamespace(""), "int")\n      getlocal            5\n      getproperty         QName(PackageNamespace(""), "position")\n      getproperty         QName(PackageNamespace(""), "`;
+"queijo_c2": "     getlex              QName(PackageNamespace(\"flash.display\"), \"MovieClip\")\n     applytype           1\n     construct           0\n     initproperty        QName(PackageNamespace(\"\"), \"";
+"Physique_c2": "\")\n      setlocal            4\n\n      getlocal            4\n      getlocal2\n      getproperty         QName(PackageNamespace(\"\"), \"";
+"b2def_c2": `")\n     getproperty         QName(PackageNamespace(""), "physiqueaqui")\n     getproperty         QName(PackageNamespace(""), "`;
+
+}
