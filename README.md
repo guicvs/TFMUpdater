@@ -1,2 +1,2 @@
 # TFMUpdater
-Updater Transformice MOD HACK
+Download: https://github.com/guicvs/TFMUpdater/TFMUpdater.zip
