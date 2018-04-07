@@ -1,2 +1,2 @@
 # TFMUpdater
-Download: https://drive.google.com/file/d/1Oe5eQpyX7HwdqTUydV0RGGYI3bgXWWGH/view?usp=sharing
+Download: https://drive.google.com/open?id=1ALOI8kb9Wdcnzm1ALCjWSWVBDCfWaxTN
